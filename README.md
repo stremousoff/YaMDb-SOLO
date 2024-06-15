@@ -82,7 +82,7 @@ http://127.0.0.1:8000/api/v1/titles/
       ]
     }
 ```
-2- GET - Get item list - HTTP Response Code: **200**
+2- GET - Get item - HTTP Response Code: **200**
 ```
 http://127.0.0.1:8000/api/v1/titles/{titles_id}/
 
